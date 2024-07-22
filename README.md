@@ -1,6 +1,6 @@
 Hidden Sea Creature
 
-The Hidden Sea Creature simulates the creation and evolution of digital organisms (pAequor) with DNA sequences. 
+The Hidden Sea Creature simulates the creation and evolution of digital organisms (pAequor) with DNA sequences. Each organism has unique DNA, and the project includes methods to mutate DNA, compare DNA between organisms, and determine the survival likelihood of organisms based on their DNA composition.
 
 FUNCTIONS - (returnRandBase):
 
