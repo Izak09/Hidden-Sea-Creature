@@ -55,6 +55,9 @@ Generates pAequor objects and filters them to find those likely to survive.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The pAequor Project provides a fascinating look into the simulation of digital organisms with unique DNA sequences. Through its various functions, you can create, mutate, and compare these organisms, as well as assess their likelihood of survival based on their DNA composition. This project not only demonstrates key concepts in JavaScript such as factory functions, array manipulation, and randomization but also offers an engaging way to understand genetic variations and survival probabilities.
+The pAequor Project provides a fascinating look into the simulation of digital organisms with unique DNA sequences. Through its various functions, you can create, mutate, and compare these organisms, as well as assess their likelihood of survival based on their DNA composition. This project not only demonstrates key concepts in JavaScript such as factory functions, array manipulation, and randomization but also offers an engaging way to understand genetic variations and survival probabilities. 
+
+
+By working through this project, you gain practical experience in developing and using factory functions to generate objects dynamically. The implementation of mutation functions showcases how you can alter data within objects and apply conditions to ensure meaningful changes. Comparing DNA sequences between organisms provides insights into array traversal and comparison logic, while assessing survival likelihood based on DNA composition highlights the use of filtering and calculating proportions.
 
 
